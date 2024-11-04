@@ -1,0 +1,11 @@
+{
+    liquidType: "registry",
+    liquid: "thermal:ender",
+    liquidThermalConductivity: 1.4,
+    gasType: "registry",
+    gas: "biggerreactorscompat:ender_gas",
+    gasThermalConductivity: 1.4,
+    latentHeat: 0.4,
+    boilingPoint: 514.5,
+    turbineMultiplier: 0,
+}

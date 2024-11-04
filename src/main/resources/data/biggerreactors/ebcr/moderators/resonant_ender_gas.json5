@@ -1,0 +1,8 @@
+{
+    type: "registry",
+    location: "biggerreactorscompat:ender_gas",
+    absorption: 0.9,
+    efficiency: 0.75,
+    moderation: 2.0,
+    conductivity: 2,
+}
